@@ -20,7 +20,7 @@ But now the rains weep o'er his hall
 And not a soul to hear
 """
 
-from data_structures import linked_list
+from pydasan_dsa_template.data_structures.linked_list import linked_list
 
 ll = linked_list.LinkedList()
 ll.append(10)
